@@ -1,3 +1,3 @@
-# Projects
+### Projects 🙃
 
-This repository contains projects I work on for my personal development.
+This repository contains mini projects I work on for my personal development.
